@@ -11,6 +11,10 @@ fieldset{
 }
 
 </style>
+<script>function MYALERT() {
+alert("Thank you for your information!!!!");} MYALERT()
+</script>
+
 </head>
 <body>
   <fieldset>

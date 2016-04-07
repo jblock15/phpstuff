@@ -39,8 +39,8 @@ input, p {
         <p>Email:</p><input type='text' placeholder="Email" name='email'>
         <p>First Name:</p><input type='text' placeholder="First_Name" name='first_name'>
         <p>Last Name:</p><input type='text' placeholder="Last_Name" name='last_name'>
-        <p>Password:</p><input type='text' placeholder="Password" name='password'>
-        <p>Confirm Password:</p><input type='text' placeholder="Confirm_Password" name='confirm_password'>
+        <p>Password:</p><input type='password' placeholder="Password" name='password'>
+        <p>Confirm Password:</p><input type='password' placeholder="Confirm_Password" name='confirm_password'>
         <p>Birthdate:</p><input type='date' placeholder="XX/XX/XXXX" name='birthdate'>
         <p>Profile Picture:</p><input type="file" id="picture"name="picture">
         <br>
